@@ -1,0 +1,4 @@
+GET http://localhost:5000/api/v1/products?numericFilters=price>30&sort=price&featured=true
+###
+
+GET http://localhost:5000/api/v1/products/static
